@@ -1,0 +1,42 @@
+{
+  "expo": {
+    "name": "PromoFacil",
+    "slug": "promofacil",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.pablo.promofacil"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "988f061f-116e-4ddc-92c4-4c8d0895567c"
+      }
+    },
+    "updates": {
+      "url": "https://u.expo.dev/988f061f-116e-4ddc-92c4-4c8d0895567c",
+      "requestHeaders": {
+        "expo-channel-name": "prod"
+      }
+    },
+    "owner": "user694210",
+    "runtimeVersion": "1.0.0"
+  }
+}

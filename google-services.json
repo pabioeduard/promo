@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "514504253055",
+    "project_id": "promofacil-6b69e",
+    "storage_bucket": "promofacil-6b69e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:514504253055:android:dc0476fd87a05262b0a94a",
+        "android_client_info": {
+          "package_name": "com.pablo.promofacil"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "514504253055-hc0rsmfq02h3rio17qc7umaa8is45ur0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pablo.promofacil",
+            "certificate_hash": "762cb23813d3961057b7fae6fb5370c315907f25"
+          }
+        },
+        {
+          "client_id": "514504253055-v9pcc49r1jiqa5hc5p0n4kr1jrkvlrti.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_JwER1Z_ubOGqBNOEUNQpnxtDEnkXsX4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "514504253055-v9pcc49r1jiqa5hc5p0n4kr1jrkvlrti.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
